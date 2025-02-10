@@ -1,6 +1,5 @@
-# Hi, I'm Faysal Ahmed 👋 from 🇧🇩 and living in 🇦🇪
+# Building AI-driven products that make money or save time
 
-**Building AI-driven products that make money or save time**
 
 I care more about value over "best" practices and enjoy working on end-to-end systems—from backend to observability and tracing. Currently, I'm a **Senior Software Engineer at Emirates NBD**, building AI-powered solutions. I’m **certified in Azure AI-102 and Oracle Generative AI Professional**, but let's be real—certifications don't write code, experience does. I've been into software engineering for almost a decade now and been part of startups which had seen succesful exit and significant growth over time. Got laid off once and would join back in startups again due to the sheer joy of making something from nothing to something.
 
